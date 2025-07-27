@@ -1,4 +1,10 @@
-## Hi there 👋
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+## Krish Immanuel 
+
+
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/immanuel-krish11/count.svg" />
+  
 
 <!--
 **immanuel-krish11/immanuel-krish11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
