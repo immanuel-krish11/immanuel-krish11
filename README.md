@@ -3,7 +3,7 @@
 
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/immanuel-krish11/count.svg" />
+![](https://komarev.com/ghpvc/?username=immanuel-krish11&color=79b8ff)
   
 
 <!--
