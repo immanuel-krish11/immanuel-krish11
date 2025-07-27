@@ -28,9 +28,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=immanuel-krish11&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanuel-krish11&theme=tokyonight&show_icons=true" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=immanuel-krish11&" alt="immanuel-krish11" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=immanuel-krish11&" alt="immanuel-krish11" />
 
 
 
