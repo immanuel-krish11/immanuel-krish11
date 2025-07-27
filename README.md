@@ -8,7 +8,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/krishimmanuel2@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="krishimmanuel2@gmail.com">   <a  href="https://www.instagram.com/immanule_krish11/"><img src="https://img.shields.io/badge/@immanule_krish11-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/krishprakash11/"><img src="https://img.shields.io/badge/Krish Prakash-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://x.com/immanuelkrish11"><img src="https://img.shields.io/badge/immanuelkrish11-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<img src="https://img.shields.io/badge/krishimmanuel2@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:krishimmanuel2@gmail.com">   <a  href="https://www.instagram.com/immanuel_krish11/"><img src="https://img.shields.io/badge/@immanuel_krish11-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/krishprakash11/"><img src="https://img.shields.io/badge/Krish Prakash-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://x.com/immanuelkrish11"><img src="https://img.shields.io/badge/immanuelkrish11-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <!--
 **immanuel-krish11/immanuel-krish11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
