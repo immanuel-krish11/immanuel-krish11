@@ -17,7 +17,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently learning <strong>Artificial Intelligenece</strong> and <strong>Machine Learning</strong>
-- 🌱 I’m currently learning working on my skills.
+- 🌱 I’m currently working on my skills.
 - 🔍 I’m looking to collaborate on <strong>ML Projects and Startups</strong>
 - 💬 Ask me about <strong>AI/ML and programming</strong>
 - 🏎️ I Drive! (iykyk)
