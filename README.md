@@ -34,4 +34,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=immanuel-krish11&" alt="immanuel-krish11" />
 
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
+
+
 
